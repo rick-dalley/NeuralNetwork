@@ -1,6 +1,6 @@
-# Primitive C++ Neural Network
+# Simple C++ Neural Network
 
-This project is a primitive implementation of a neural network written in **C++**, inspired by the ideas presented in _"Make Your Own Neural Network"_ by Tariq Rashid. While the original book uses Python, this project aims to replicate the concepts in C++ as a learning exercise.
+This project is a simple implementation of a neural network written in **C++**, inspired by the ideas presented in _"Make Your Own Neural Network"_ by Tariq Rashid. While the original book uses Python, this project aims to replicate the concepts in C++ as a learning exercise.
 
 ---
 
